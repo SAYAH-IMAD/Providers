@@ -1,0 +1,15 @@
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\bin\Debug\netcoreapp2.1\TestSQLCache.deps.json
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\bin\Debug\netcoreapp2.1\TestSQLCache.runtimeconfig.json
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\bin\Debug\netcoreapp2.1\TestSQLCache.runtimeconfig.dev.json
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\bin\Debug\netcoreapp2.1\TestSQLCache.dll
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\bin\Debug\netcoreapp2.1\TestSQLCache.pdb
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\bin\Debug\netcoreapp2.1\AppFactory.Runtime.Common.Foundation.dll
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\bin\Debug\netcoreapp2.1\AppFactory.Runtime.Server.Providers.SQLServerCache.dll
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\bin\Debug\netcoreapp2.1\AppFactory.Runtime.Server.Providers.SQLServerCache.pdb
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\obj\Debug\netcoreapp2.1\TestSQLCache.csprojAssemblyReference.cache
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\obj\Debug\netcoreapp2.1\TestSQLCache.csproj.CoreCompileInputs.cache
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\obj\Debug\netcoreapp2.1\TestSQLCache.AssemblyInfoInputs.cache
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\obj\Debug\netcoreapp2.1\TestSQLCache.AssemblyInfo.cs
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\obj\Debug\netcoreapp2.1\TestSQLCache.csproj.CopyComplete
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\obj\Debug\netcoreapp2.1\TestSQLCache.dll
+C:\Users\isayah\source\repos\ProviderSolution\TestSQLCache\obj\Debug\netcoreapp2.1\TestSQLCache.pdb

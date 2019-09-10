@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Caching.SqlServer" Version="2.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.3-beta1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AppFactory.Runtime.Common.Foundation">
+      <HintPath>..\Dependencies\AppFactory.Runtime.Common.Foundation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="if not exist &quot;$(SolutionDir)Binaries\Server&quot; mkdir &quot;$(SolutionDir)Binaries\Server&quot;&#xD;&#xA;xcopy &quot;$(TargetDir)*.*&quot; &quot;$(SolutionDir)Binaries\Server&quot; /s /y /c" />
+  </Target>
+
+</Project>

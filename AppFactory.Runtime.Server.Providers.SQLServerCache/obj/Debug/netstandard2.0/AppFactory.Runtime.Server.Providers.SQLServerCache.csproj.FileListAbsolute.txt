@@ -1,0 +1,11 @@
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.Providers.SQLServerCache\obj\Debug\netstandard2.0\AppFactory.Runtime.Server.Providers.SQLServerCache.csproj.CoreCompileInputs.cache
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.Providers.SQLServerCache\obj\Debug\netstandard2.0\AppFactory.Runtime.Server.Providers.SQLServerCache.AssemblyInfoInputs.cache
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.Providers.SQLServerCache\obj\Debug\netstandard2.0\AppFactory.Runtime.Server.Providers.SQLServerCache.AssemblyInfo.cs
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.Providers.SQLServerCache\bin\Debug\netstandard2.0\AppFactory.Runtime.Server.Providers.SQLServerCache.deps.json
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.Providers.SQLServerCache\bin\Debug\netstandard2.0\AppFactory.Runtime.Server.Providers.SQLServerCache.dll
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.Providers.SQLServerCache\bin\Debug\netstandard2.0\AppFactory.Runtime.Server.Providers.SQLServerCache.pdb
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.Providers.SQLServerCache\bin\Debug\netstandard2.0\AppFactory.Runtime.Common.Foundation.dll
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.Providers.SQLServerCache\obj\Debug\netstandard2.0\AppFactory.Runtime.Server.Providers.SQLServerCache.csproj.CopyComplete
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.Providers.SQLServerCache\obj\Debug\netstandard2.0\AppFactory.Runtime.Server.Providers.SQLServerCache.dll
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.Providers.SQLServerCache\obj\Debug\netstandard2.0\AppFactory.Runtime.Server.Providers.SQLServerCache.pdb
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.Providers.SQLServerCache\obj\Debug\netstandard2.0\AppFactory.Runtime.Server.Providers.SQLServerCache.csprojAssemblyReference.cache

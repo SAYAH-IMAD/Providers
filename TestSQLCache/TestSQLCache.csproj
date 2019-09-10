@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AppFactory.Runtime.Server.Providers.SQLServerCache\AppFactory.Runtime.Server.Providers.SQLServerCache.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AppFactory.Runtime.Common.Foundation">
+      <HintPath>..\Dependencies\AppFactory.Runtime.Common.Foundation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

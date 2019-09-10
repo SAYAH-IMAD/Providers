@@ -1,0 +1,6 @@
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.DataBases.DistributedCacheStore\bin\Debug\AppFactory.Runtime.Server.DataBases.DistributedCacheStore.dacpac
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.DataBases.DistributedCacheStore\bin\Debug\AppFactory.Runtime.Server.DataBases.DistributedCacheStore.dll
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.DataBases.DistributedCacheStore\bin\Debug\AppFactory.Runtime.Server.DataBases.DistributedCacheStore.pdb
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.DataBases.DistributedCacheStore\obj\Debug\AppFactory.Runtime.Server.DataBases.DistributedCacheStore.dll
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.DataBases.DistributedCacheStore\obj\Debug\AppFactory.Runtime.Server.DataBases.DistributedCacheStore.pdb
+C:\Users\isayah\source\repos\ProviderSolution\AppFactory.Runtime.Server.DataBases.DistributedCacheStore\obj\Debug\AppFactory.Runtime.Server.DataBases.DistributedCacheStore.sqlprojAssemblyReference.cache

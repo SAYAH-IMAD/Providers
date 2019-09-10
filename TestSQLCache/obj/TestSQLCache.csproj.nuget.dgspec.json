@@ -1,0 +1,127 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\isayah\\source\\repos\\ProviderSolution\\TestSQLCache\\TestSQLCache.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\isayah\\source\\repos\\ProviderSolution\\AppFactory.Runtime.Server.Providers.SQLServerCache\\AppFactory.Runtime.Server.Providers.SQLServerCache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isayah\\source\\repos\\ProviderSolution\\AppFactory.Runtime.Server.Providers.SQLServerCache\\AppFactory.Runtime.Server.Providers.SQLServerCache.csproj",
+        "projectName": "AppFactory.Runtime.Server.Providers.SQLServerCache",
+        "projectPath": "C:\\Users\\isayah\\source\\repos\\ProviderSolution\\AppFactory.Runtime.Server.Providers.SQLServerCache\\AppFactory.Runtime.Server.Providers.SQLServerCache.csproj",
+        "packagesPath": "C:\\Users\\isayah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isayah\\source\\repos\\ProviderSolution\\AppFactory.Runtime.Server.Providers.SQLServerCache\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\isayah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Caching.SqlServer": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3-beta1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\isayah\\source\\repos\\ProviderSolution\\TestSQLCache\\TestSQLCache.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\isayah\\source\\repos\\ProviderSolution\\TestSQLCache\\TestSQLCache.csproj",
+        "projectName": "TestSQLCache",
+        "projectPath": "C:\\Users\\isayah\\source\\repos\\ProviderSolution\\TestSQLCache\\TestSQLCache.csproj",
+        "packagesPath": "C:\\Users\\isayah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\isayah\\source\\repos\\ProviderSolution\\TestSQLCache\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\isayah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\isayah\\source\\repos\\ProviderSolution\\AppFactory.Runtime.Server.Providers.SQLServerCache\\AppFactory.Runtime.Server.Providers.SQLServerCache.csproj": {
+                "projectPath": "C:\\Users\\isayah\\source\\repos\\ProviderSolution\\AppFactory.Runtime.Server.Providers.SQLServerCache\\AppFactory.Runtime.Server.Providers.SQLServerCache.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
